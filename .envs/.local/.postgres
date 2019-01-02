@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=food_tracker
+POSTGRES_USER=bobFZcaQNRlvRNMqpOZJaRTaTBiBqghy
+POSTGRES_PASSWORD=elnKhsxOuyx10cenMONPLSGOMPUwgLOXzRKATJjfasS0UwmpDlQjn65QMYI1ygrm
